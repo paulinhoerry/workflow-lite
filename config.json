@@ -1,0 +1,16 @@
+{
+  "tasksPath":    "./tasks",
+  "sourceHtml":   "_source/pug/*.pug",
+  "sourceCss":    "_source/styl/**/*.styl",
+  "sourceStyl":   "_source/styl/styl.styl",
+  "sourceJs":     "_source/js/**/*.js",
+  "sourceIcons":  "_source/svg/icons/*.svg",
+  "sourceSvg":    "_source/svg/etc/*",
+  "sourceImg":    "_source/img/**/*",
+  "build":        "_build/**/*",
+  "buildHtml":    "_build/",
+  "buildCss":     "_build/css/",
+  "buildJs":      "_build/js/",
+  "buildSvg":     "_build/svg/",
+  "buildImg":     "_build/img/"
+}
