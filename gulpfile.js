@@ -17,6 +17,9 @@ require(config.tasksPath + '/css')(gulp, plugins, config);
 // JS compilation
 require(config.tasksPath + '/js-compile')(gulp, plugins, config);
 
+// Image compression
+require(config.tasksPath + '/imagemin')(gulp, plugins, config);
+
 // Watch Task
 require(config.tasksPath + '/watch')(gulp, plugins, config);
 
