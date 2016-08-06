@@ -33,6 +33,7 @@
     "gulp-uglify": "^1.5.4",
     "gulp-watch": "^4.3.8",
     "lost": "^7.0.3",
+    "postcss-font-magician": "^1.4.0",
     "poststylus": "^0.2.3",
     "pug": "^2.0.0-beta3",
     "rucksack-css": "^0.8.6",
