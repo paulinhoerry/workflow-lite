@@ -38,6 +38,7 @@ folder: `./tasks`
 - `gulp`: run all tasks and initialize watch for changes and a server
 - `gulp js`: compile js files
 - `gulp html`: compile pug files
+- `gulp images`: Image optimize and minifier
 - `gulp css`: compile stylus files
 - `gulp server`: inicialize a static server
 - `gulp watch`: call for watch files
