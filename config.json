@@ -1,6 +1,6 @@
 {
   "tasksPath":    "./tasks",
-  "sourceHtml":   "_source/pug/*.pug",
+  "sourceHtml":   "_source/pug/**/*.pug",
   "sourceCss":    "_source/styl/**/*.styl",
   "sourceStyl":   "_source/styl/styl.styl",
   "sourceJs":     "_source/js/**/*.js",
