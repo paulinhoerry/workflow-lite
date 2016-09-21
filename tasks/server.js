@@ -13,7 +13,9 @@ module.exports = function(gulp, plugins, config) {
 
     gulp.watch(config.sourceHtml, ['html']);
     gulp.watch(config.sourceCss, ['css']);
+    gulp.watch(config.sourceJs, ['js']);
     gulp.watch(config.sourceImg, ['images']);
+    gulp.watch(config.sourceSvg, ['svg']);
     gulp.watch(config.sourceIcons, ['icons']);
 
   });

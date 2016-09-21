@@ -14,6 +14,9 @@ require(config.tasksPath + '/html')(gulp, plugins, config);
 // CSS compilation
 require(config.tasksPath + '/css')(gulp, plugins, config);
 
+// SVG compilation
+require(config.tasksPath + '/svg')(gulp, plugins, config);
+
 // JS compilation
 require(config.tasksPath + '/js-compile')(gulp, plugins, config);
 
